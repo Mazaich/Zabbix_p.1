@@ -15,8 +15,8 @@
  При выполнении второго задания было принято решение по устаовке второго агента не на дргугю ВМ, а на эту же,
 но на другой порт.
 
-![скриншот команд по установке 2 агента](https://raw.githubusercontent.com/Mazaich/zabbix_p.1/main/6.png)
-![скриншот агентов по портам](https://raw.githubusercontent.com/Mazaich/zabbix_p.1/main/9.png)
-![скриншот работающего агнта](https://raw.githubusercontent.com/Mazaich/zabbix_p.1/main/13.png)
-![скриншот работающего агнта](https://raw.githubusercontent.com/Mazaich/zabbix_p.1/main/14.png)
-![скриншот работающего агнта](https://raw.githubusercontent.com/Mazaich/zabbix_p.1/main/15.png)
+![скриншот команд по установке 2 агента](https://raw.githubusercontent.com/Mazaich/zabbix-p.1/main/6.png)
+![скриншот агентов по портам](https://raw.githubusercontent.com/Mazaich/zabbix-p.1/main/9.png)
+![скриншот работающего агнта](https://raw.githubusercontent.com/Mazaich/zabbix-p.1/main/13.png)
+![скриншот работающего агнта](https://raw.githubusercontent.com/Mazaich/zabbix-p.1/main/14.png)
+![скриншот работающего агнта](https://raw.githubusercontent.com/Mazaich/zabbix-p.1/main/15.png)
